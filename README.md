@@ -15,3 +15,16 @@ Data set:
 
 https://www.bbci.de/competition/download/competition_iv/BCICIV_1_mat.zip
 
+Filter we use in this project:
+Laplacian filter & CAR filter
+
+Feature extraction used in this project:
+CSP & Wavelet Transform
+
+Classification algorithms:
+KNN & MLP & Logistic Regression
+
+![image](https://github.com/user-attachments/assets/6576e413-7244-41a7-bbb7-cf325497e205)
+
+Clustering is an unsupervised learning technique that involves grouping data points into clusters such that points within the same cluster are more similar to each other than to points in other clusters.
+GMM might be better suited for complex datasets with varying cluster shapes and densities due to probabilistic nature and ability to model covariance. K-Means is efficient and effective for well-separated spherical clusters.
